@@ -1,0 +1,14 @@
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\bin\Debug\net7.0\c-crash.exe
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\bin\Debug\net7.0\c-crash.deps.json
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\bin\Debug\net7.0\c-crash.runtimeconfig.json
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\bin\Debug\net7.0\c-crash.dll
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\bin\Debug\net7.0\c-crash.pdb
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.AssemblyInfoInputs.cache
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.AssemblyInfo.cs
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.csproj.CoreCompileInputs.cache
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.dll
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\refint\c-crash.dll
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.pdb
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\c-crash.genruntimeconfig.cache
+C:\Users\user009\Documents\Projects\see-sharp\c-crash\obj\Debug\net7.0\ref\c-crash.dll
