@@ -4,12 +4,20 @@
     {
         static void Main(string[] args)
         {
+            ValidAnagram anagram = new ValidAnagram();
+            string s = "aacc", t = "ccac";
+            bool tOf = anagram.IsAnagram(s, t);
+            Console.WriteLine(tOf);
+            // Solution solution = new Solution();
+            // int[] nums = { 1, 2, 3, };
+            // bool tOf = solution.ContainsDuplicate(nums);
+            // Console.WriteLine(tOf);
             // Inheritance
-            Chef chef = new Chef();
-            chef.MakeChicken();
-            NigerianChef nigerianChef = new NigerianChef();
-            nigerianChef.MakeChicken();
-            nigerianChef.MakeSpecialDish();
+            // Chef chef = new Chef();
+            // chef.MakeChicken();
+            // NigerianChef nigerianChef = new NigerianChef();
+            // nigerianChef.MakeChicken();
+            // nigerianChef.MakeSpecialDish();
             // static methods and classes
             // Console.WriteLine(Math.Sqrt(144));
             // Classes and Objects
