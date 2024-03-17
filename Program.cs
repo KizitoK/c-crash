@@ -4,10 +4,13 @@
     {
         static void Main(string[] args)
         {
-            ValidAnagram anagram = new ValidAnagram();
-            string s = "aacc", t = "ccac";
-            bool tOf = anagram.IsAnagram(s, t);
-            Console.WriteLine(tOf);
+            // Concatenation concat = new Concatenation();
+            // int[] nums = { 1, 3, 8 };
+            // int[] tOf = concat.GetConcatenation(nums);
+            // ValidAnagram anagram = new ValidAnagram();
+            // string s = "aacc", t = "ccac";
+            // bool tOf = anagram.IsAnagram(s, t);
+            // Console.WriteLine(tOf);
             // Solution solution = new Solution();
             // int[] nums = { 1, 2, 3, };
             // bool tOf = solution.ContainsDuplicate(nums);
